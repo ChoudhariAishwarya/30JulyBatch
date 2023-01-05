@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.sauceDemo.TestPackage.TC01_TestLoginPageProg">
+        <methods>
+          <include name="teardownmethod"/>
+          <include name="testLoginPageProg"/>
+          <include name="setupmethod"/>
+        </methods>
+      </class> <!-- com.sauceDemo.TestPackage.TC01_TestLoginPageProg -->
+      <class name="com.sauceDemo.TestPackage.TC03_TestSingleAddToCartProg">
+        <methods>
+          <include name="teardownmethod"/>
+          <include name="testSingleAddToCartProg"/>
+          <include name="setupmethod"/>
+        </methods>
+      </class> <!-- com.sauceDemo.TestPackage.TC03_TestSingleAddToCartProg -->
+      <class name="com.sauceDemo.TestPackage.TC02_TestLogOutFunProg">
+        <methods>
+          <include name="teardownmethod"/>
+          <include name="testLogOutFunProg"/>
+          <include name="setupmethod"/>
+        </methods>
+      </class> <!-- com.sauceDemo.TestPackage.TC02_TestLogOutFunProg -->
+      <class name="com.sauceDemo.TestPackage.TC04_TestAllAddToCartProdProg">
+        <methods>
+          <include name="teardownmethod"/>
+          <include name="setupmethod"/>
+          <include name="testAllAddToCartProdProg"/>
+        </methods>
+      </class> <!-- com.sauceDemo.TestPackage.TC04_TestAllAddToCartProdProg -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-04T13:27:52 IST" name="Suite" finished-at="2023-01-04T13:28:48 IST" duration-ms="56290">
+    <groups>
+    </groups>
+    <test started-at="2023-01-04T13:27:52 IST" name="Test" finished-at="2023-01-04T13:28:48 IST" duration-ms="56290">
+      <class name="com.sauceDemo.TestPackage.TC02_TestLogOutFunProg">
+        <test-method is-config="true" signature="setupmethod(java.lang.String)[pri:0, instance:com.sauceDemo.TestPackage.TC02_TestLogOutFunProg@8f4ea7c]" started-at="2023-01-04T13:28:10 IST" name="setupmethod" finished-at="2023-01-04T13:28:19 IST" duration-ms="8988" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupmethod -->
+        <test-method signature="testLogOutFunProg()[pri:0, instance:com.sauceDemo.TestPackage.TC02_TestLogOutFunProg@8f4ea7c]" started-at="2023-01-04T13:28:19 IST" name="testLogOutFunProg" finished-at="2023-01-04T13:28:20 IST" duration-ms="685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogOutFunProg -->
+        <test-method is-config="true" signature="teardownmethod()[pri:0, instance:com.sauceDemo.TestPackage.TC02_TestLogOutFunProg@8f4ea7c]" started-at="2023-01-04T13:28:20 IST" name="teardownmethod" finished-at="2023-01-04T13:28:20 IST" duration-ms="503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownmethod -->
+      </class> <!-- com.sauceDemo.TestPackage.TC02_TestLogOutFunProg -->
+      <class name="com.sauceDemo.TestPackage.TC04_TestAllAddToCartProdProg">
+        <test-method is-config="true" signature="setupmethod(java.lang.String)[pri:0, instance:com.sauceDemo.TestPackage.TC04_TestAllAddToCartProdProg@74fe5c40]" started-at="2023-01-04T13:28:33 IST" name="setupmethod" finished-at="2023-01-04T13:28:42 IST" duration-ms="8944" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupmethod -->
+        <test-method signature="testAllAddToCartProdProg()[pri:0, instance:com.sauceDemo.TestPackage.TC04_TestAllAddToCartProdProg@74fe5c40]" started-at="2023-01-04T13:28:42 IST" name="testAllAddToCartProdProg" finished-at="2023-01-04T13:28:47 IST" duration-ms="4357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAllAddToCartProdProg -->
+        <test-method is-config="true" signature="teardownmethod()[pri:0, instance:com.sauceDemo.TestPackage.TC04_TestAllAddToCartProdProg@74fe5c40]" started-at="2023-01-04T13:28:47 IST" name="teardownmethod" finished-at="2023-01-04T13:28:48 IST" duration-ms="1619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownmethod -->
+      </class> <!-- com.sauceDemo.TestPackage.TC04_TestAllAddToCartProdProg -->
+      <class name="com.sauceDemo.TestPackage.TC01_TestLoginPageProg">
+        <test-method is-config="true" signature="setupmethod(java.lang.String)[pri:0, instance:com.sauceDemo.TestPackage.TC01_TestLoginPageProg@4466af20]" started-at="2023-01-04T13:27:52 IST" name="setupmethod" finished-at="2023-01-04T13:28:09 IST" duration-ms="17242" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupmethod -->
+        <test-method signature="testLoginPageProg()[pri:0, instance:com.sauceDemo.TestPackage.TC01_TestLoginPageProg@4466af20]" started-at="2023-01-04T13:28:09 IST" name="testLoginPageProg" finished-at="2023-01-04T13:28:09 IST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPageProg -->
+        <test-method is-config="true" signature="teardownmethod()[pri:0, instance:com.sauceDemo.TestPackage.TC01_TestLoginPageProg@4466af20]" started-at="2023-01-04T13:28:09 IST" name="teardownmethod" finished-at="2023-01-04T13:28:10 IST" duration-ms="536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownmethod -->
+      </class> <!-- com.sauceDemo.TestPackage.TC01_TestLoginPageProg -->
+      <class name="com.sauceDemo.TestPackage.TC03_TestSingleAddToCartProg">
+        <test-method is-config="true" signature="setupmethod(java.lang.String)[pri:0, instance:com.sauceDemo.TestPackage.TC03_TestSingleAddToCartProg@436813f3]" started-at="2023-01-04T13:28:20 IST" name="setupmethod" finished-at="2023-01-04T13:28:29 IST" duration-ms="9091" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupmethod -->
+        <test-method signature="testSingleAddToCartProg()[pri:0, instance:com.sauceDemo.TestPackage.TC03_TestSingleAddToCartProg@436813f3]" started-at="2023-01-04T13:28:29 IST" name="testSingleAddToCartProg" finished-at="2023-01-04T13:28:33 IST" duration-ms="3575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSingleAddToCartProg -->
+        <test-method is-config="true" signature="teardownmethod()[pri:0, instance:com.sauceDemo.TestPackage.TC03_TestSingleAddToCartProg@436813f3]" started-at="2023-01-04T13:28:33 IST" name="teardownmethod" finished-at="2023-01-04T13:28:33 IST" duration-ms="491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownmethod -->
+      </class> <!-- com.sauceDemo.TestPackage.TC03_TestSingleAddToCartProg -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
